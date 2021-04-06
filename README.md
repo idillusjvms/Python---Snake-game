@@ -1,4 +1,4 @@
-# Python---Snake-game
+# Python --- Snake-game
 A very simple snake game created in Python
 
 ### Packages required
@@ -11,5 +11,5 @@ The rest of the libraries used are already installed by default on the Python di
 ### How to use it
 Just simply execute the file and enjoy. 
 
-### Know problems   
+### Known problems   
 If you use a Python IDLE like Anaconda or Spyder, the code will not work as the IDLE does not allow to create a new window. 
